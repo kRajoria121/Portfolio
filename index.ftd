@@ -45,7 +45,7 @@ cta-item2-link: https://github.com/kRajoria121/Portfolio
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/kRajoria121/Portfolio
+link: https://github.com/kRajoria121
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -137,7 +137,7 @@ link: YOUR-YOUTUBE_HANDLE
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:rajoriakundan@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
